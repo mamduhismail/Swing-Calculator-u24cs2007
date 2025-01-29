@@ -1,1 +1,3 @@
-# Swing-Calculator-u24cs2007
+Name: Mamduh Ismail 
+Department: Computer Science 
+GitHub username: @mamduhismail
